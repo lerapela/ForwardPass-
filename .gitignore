@@ -1,0 +1,30 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Xournal++ files
+*.xopp
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# IDE and OS files
+.vscode/
+.DS_Store
+
+# Generated data (users create these with datasets/TrainMnist_mlp.py)
+*.bin
+*.npy
+*.npz
+
+# Build output
+Output
+Output.exe
+*.exp
+*.lib
+*.pdb
